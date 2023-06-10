@@ -1,0 +1,97 @@
+.header{
+    position: absolute;
+    width: 100%;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    z-index: 10;
+    
+}
+
+.header h1{
+    font-weight: normal;
+}
+
+.header img{
+    width: 280px;
+    height: 58px;
+    margin-right: 40px;
+}
+
+
+.nav-menu{
+    display: flex;
+}
+
+.nav-menu li{
+    padding: 0 2.0rem;
+}
+
+.nav-menu a{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.header a.active3::before{
+    position: absolute;
+    content: "";
+    width: 27px;
+    height: 2px;
+    border-bottom: 2px solid black;
+    bottom: 27px;
+}
+
+
+.header li a::before{
+    position: absolute;
+    content: "";
+    width: 0%;
+    height: 1px;
+    border-bottom: 2px solid black;
+    bottom:27px;
+    transition: width .3s;/*300ms*/
+}
+
+.header li a:hover::before{
+    width:27px; 
+}
+
+.hamburger{
+    display: none;
+}
+
+@media screen and (max-width:1240px) {
+    .hamburger{
+        display: block;
+    }
+
+    .nav-menu{
+        position: absolute;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        top: 0;
+        left: -100%;
+        text-align: center;
+        width: 100%;
+        height: 100vh;
+        transition: 0.3s;
+        z-index: -1;
+        background: #D9D9D9;
+    }
+
+    .nav-menu.active{
+        left: 0;
+    }
+
+    .nav-menu li{
+        padding: 1rem 0;
+    }
+
+    .nav-menu a::before{
+        font-size: 20px;
+        display: none;
+    }
+}
