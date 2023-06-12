@@ -48,7 +48,7 @@ const Laxmiraaj = () => {
           <div className="inner">
 
             <li className='com'>
-              <a href='Claim Form.pdf' download='Claim Form.pdf'>Download Brochure</a></li></div>
+              <a href='Claim Form.pdf' download='Claim Form.pdf'>DOWNLOAD BROCHURE</a></li></div>
         </div>
       </div>
       <div className="features" id='project_over'>
@@ -72,12 +72,6 @@ const Laxmiraaj = () => {
         </div>
         
       </div>
-
-      
-
-      {/* <div id="amenities">
-        
-      </div> */}
 
       <div id='gallery2'>
         <h1>Amenities</h1>
