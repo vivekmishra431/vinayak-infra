@@ -1,0 +1,317 @@
+.image3{
+    background: rgba(132, 131, 131, 0.3);
+    height: 50vh;
+    width: 100%;
+    position: relative;
+}
+
+.image3::before{
+    content: '';
+    background: url('http://www.thelaxmigroup.in/laxmishrushti/assets/images/about.png') no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.image3 .heading{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.image3 h1{
+    font-size: 40px;
+    color: wheat;
+}
+
+.image3 p{
+    font-size: 40px;
+    color: wheat;
+}
+
+#outer
+{
+    width:100%;
+    text-align: center;
+}
+.inner
+{
+    display: inline-block;
+}
+
+.inner .com{
+    list-style-type: none;
+    background: wheat;
+    padding-top: 5px;
+    padding-left: 8px;
+    padding-bottom: 5px;
+    padding-right: 8px;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+  }
+  .com a{
+    color: #000;
+    font-weight: 100;
+  
+  }
+  .com:hover{
+    background:rgb(249, 195, 94);
+  }
+
+  .inner .loc{
+    list-style-type: none;
+    background: #5ba545;
+    padding-top: 5px;
+    padding-left: 8px;
+    padding-bottom: 5px;
+    padding-right: 8px;
+    margin-left: 720px;
+    border-radius: 5px;
+    margin-top: 5px;
+  }
+
+  .loc a{
+    color: #fff;
+    font-weight: 100;
+  
+  }
+  .loc:hover{
+    background:rgb(249, 195, 94);
+  }
+
+  .features{
+    padding: 50px 12%;
+    font-size: 22px;
+}
+
+.rows{
+    display: flex;
+    width:100%;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 50px 0;
+}
+
+.text-col{
+    flex-basis: 50%;
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+.img-col{
+    flex-basis: 50%;
+    margin-bottom: 20px;
+}
+
+.img-col img{
+    display: block;
+    width: 90%;
+    margin: auto;
+}
+
+#project_over{
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+#gallery{
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+
+#amenities{
+    padding-top: 70px;
+    margin-bottom: 50px;
+}
+
+/* .nities{
+    margin-top: 10px;
+} */
+#location{
+    padding-top: 50px;
+}
+#location,h2{
+    text-align: center;
+    font-size: 24px;
+}
+
+#location h1{
+    font-weight: bold;
+}
+
+#location #add{
+    font-weight: normal;
+}
+
+#location #loc_add{
+    font-size: 20px;
+}
+
+#floorplan2{
+    padding-top: 100px;
+    margin-bottom: 37px;
+}
+#floorplan2 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+
+#amenities img{
+    width: 100px;
+    height: 100px;
+    vertical-align: middle;
+}
+
+#maha_rera #maha_p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#maha_rera #maha_p #maha_a:hover{
+    color: blue;
+}
+
+#maha_a:visited{
+    color: violet;
+}
+
+#maha_a:link{
+    color: gray;
+}
+
+#rowA{
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;  
+    padding-left: 150px;
+}
+
+.laxmishruh1{
+    text-align: center;
+    margin-right: 450px;
+}
+
+#map-bar1{
+    margin-left: auto;
+    margin-right: auto;
+    width: 68%;
+}
+
+#map-bar1 iframe{
+    width: 80%;
+    text-align: center;
+}
+
+
+#row{
+    width: 100% ;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#row .col-6{
+    width: 50% ; 
+    position: relative;
+    padding: 5px ;
+    margin-top: 93px;
+}
+
+.lists{
+    margin-top: 150px;
+}
+
+ul.myUl{
+  text-align: left;
+  list-style-type: disc;
+}
+
+.fph1{
+    padding-top: 10px;
+}
+
+
+@media only screen and (max-width:980px) {
+
+    .text-col, .img-col{
+        flex-basis: 100%;
+    }
+    
+    .features p{
+        font-size: 15px;
+    }
+
+    .rows:nth-child(2), .rows:nth-child(4){
+        flex-direction: column-reverse;
+    }
+
+    .features .rows{
+        padding: 10px 0;
+    }
+
+    .heading h1,p{
+        text-align: center;
+    }
+
+    /* #floorplan2{
+        padding-top: 200px;
+    } */
+
+    
+
+    #map-bar1{
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+    }
+
+    #map-bar1 iframe{
+        width: 80%;
+        text-align: center;
+    }
+
+    .lists{
+        text-align: left;
+
+    }
+
+    #row{
+        flex-direction: column;
+    }
+
+    #row .col-6{
+        width: 100%;
+    }
+
+    #floorplan2 img{
+        width: 90%;
+    }
+
+    ul.myUl{
+        margin-left: 50px;
+    }
+    
+}
+
+
+@media only screen and(max-width:300px){
+    #row{
+        flex-direction: column;
+    }
+
+    #row .col-6{
+        width: 100%;
+    }
+}

@@ -1,0 +1,69 @@
+[
+    {
+        "id": 1,
+        "image": "https://image.made-in-china.com/202f0j00gZQYaMCJhroB/Hitachi-Tmx-20-Concrete-Mixer-Bucke.jpg",
+        "title": "Concrete Mixer",
+        "price": "1.8 lahk/Month"
+    },
+    {
+        "id": 2,
+        "image": "https://5.imimg.com/data5/CV/QW/GU/SELLER-44259986/slotted-c-channel-500x500.jpg",
+        "title": "Stainless Steel Slotted C Channel",
+        "price": "40 meter"
+    },
+    {
+        "id": 3,
+        "image": "https://5.imimg.com/data5/FP/ER/UD/SELLER-19097667/h-frame-scaffolding-500x500.jpg",
+        "title": "H Frame Scaffholding",
+        "price": "ASK PRICE"
+    },
+    {
+        "id": 4,
+        "image": "https://5.imimg.com/data5/SELLER/Default/2021/2/LY/DW/QE/123142676/ms-i-beam-500x500.jpg",
+        "title": "I Beam",
+        "price": "56/kg"
+    },
+    {
+        "id": 5,
+        "image": "https://3.imimg.com/data3/VK/LX/MY-4120290/ms-prop-250x250.jpg",
+        "title": "MS Prop",
+        "price": "1050/piece"
+    },
+    {
+        "id": 6,
+        "image": "https://5.imimg.com/data5/XC/TO/OG/SELLER-15408371/ms-adjustable-span-set-500x500.jpg",
+        "title": "MS Span",
+        "price": "55/kg"
+    },
+    {
+        "id": 7,
+        "image": "https://cpimg.tistatic.com/03022656/b/5/MS-Tie-Rod.jpg",
+        "title": "Ms Tie Rod",
+        "price": "74/meter"
+    },
+    {
+        "id": 8,
+        "image": "https://5.imimg.com/data5/SELLER/Default/2022/11/SD/ZK/IO/5296055/shuttering-clamp-500x500.jpg",
+        "title": "MS Shikanja",
+        "price": "55/piece"
+    },
+    {
+        "id": 9,
+        "image": "https://5.imimg.com/data5/NJ/IG/MY-23640766/stainless-steel-pipe-500x500.png",
+        "title": "Stainless Steel Pipe",
+        "price": "250/kg"
+    },
+    {
+        "id": 10,
+        "image": "https://5.imimg.com/data5/YY/OV/MY-12848541/cuplock-scaffolding-500x500.jpeg",
+        "title": "U Jack",
+        "price": "200/piece"  
+    },
+    {
+        "id": 11,
+        "image": "https://5.imimg.com/data5/XJ/VP/MY-6670711/concrete-vibrator-500x500.jpg",
+        "title": "Vibrator for Concrete",
+        "price": "13000" 
+    }
+]
+
