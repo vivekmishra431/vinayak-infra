@@ -46,5 +46,9 @@
   "devDependencies": {
     "eslint": "^8.38.0",
     "eslint-plugin-react": "^7.32.2"
-  }
+  },
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
