@@ -58,7 +58,7 @@ const Laxmiraaj = () => {
             <p>Laxmi Raajvilas is the ultimate frontier of splendour. It is a perfect amalgamation of resplendent beauty with a heritage look and an architectural marvel beyond words. The property is an imposing architectural creation decked in breathtaking gardens, magnificent carvings, beautiful Chhatris, stunning Jharokhas, and designer parks. Imagine living in homes bathed in magnificent and aristocratic look with distinctly unique modern amenities and décor. The sheer grandeur of the classical abode welcomes you to the unrivalled world of exquisite living with stately amenities. Raajvilas, a Rajasthani-themed residential development on the Goregaon-Mulund Link Road at the Upper Sunder Nagar, Goregaon West, Mumbai, is regal in its demeanour and the experiences that it offers.</p>
           </div>
           <div className="img-col">
-            <img src="http://www.thelaxmigroup.in/images/resources/splend.jpeg" alt='lr' />
+            <img src="http://www.thelaxmigroup.in/images/resources/splend.jpeg" alt='laar' />
           </div>
         </div>
         <hr style={{ opacity: "0.5" }} />
