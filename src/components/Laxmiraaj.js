@@ -88,7 +88,7 @@ const Laxmiraaj = () => {
           <h1 className='loch1'>How Get Here</h1>
           
           <div className="map" id="map-bar">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60295.70689526698!2d72.76631084863283!3d19.174152800000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b6f87c434635%3A0x792a17347a0c5d58!2sLaxmi%20Raajvilas%20-%20THE%20LAXMI%20GROUP!5e0!3m2!1sen!2sin!4v1685897246227!5m2!1sen!2sin" width="500" height="390" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60295.70689526698!2d72.76631084863283!3d19.174152800000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b6f87c434635%3A0x792a17347a0c5d58!2sLaxmi%20Raajvilas%20-%20THE%20LAXMI%20GROUP!5e0!3m2!1sen!2sin!4v1685897246227!5m2!1sen!2sin" width="500" height="390" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title='infra'></iframe>
         </div></div>
 
     <div id="maha_rera">

@@ -43,7 +43,7 @@ export default function Search2() {
                                     return val;
                                 }
 
-                            
+                            return -1
                                 
                             })
                             .map((val) => {

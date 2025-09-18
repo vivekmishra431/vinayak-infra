@@ -83,7 +83,7 @@ const Santiheight = () => {
         <div id='location'>
           <h1 className='loch1'>How Get Here</h1>
 
-          <div className="map" id="map-bar4"> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.883711422919!2d72.84536227361446!3d19.156566949441476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b64b85bcff23%3A0x6bd8319b895d4c4e!2s314%2C%20Rd%20Number%2017%2C%20Jawahar%20Nagar%2C%20Goregaon%20West%2C%20Mumbai%2C%20Maharashtra%20400104!5e0!3m2!1sen!2sin!4v1685895615727!5m2!1sen!2sin" width="500" height="390" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <div className="map" id="map-bar4"> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.883711422919!2d72.84536227361446!3d19.156566949441476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b64b85bcff23%3A0x6bd8319b895d4c4e!2s314%2C%20Rd%20Number%2017%2C%20Jawahar%20Nagar%2C%20Goregaon%20West%2C%20Mumbai%2C%20Maharashtra%20400104!5e0!3m2!1sen!2sin!4v1685895615727!5m2!1sen!2sin" width="500" height="390" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title='infra-vinayak'></iframe>
           </div>
         </div>
 

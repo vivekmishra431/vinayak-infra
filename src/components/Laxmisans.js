@@ -88,7 +88,7 @@ const Laxmisans = () => {
     <div id='location'>
           <h1 className='loch1'>How Get Here</h1>
           <div id="map-bar3">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.883774660024!2d72.84530567510248!3d19.156564182064713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b71c001e5acf%3A0x9d520fbd4021302c!2sLaxmi%20Sanskruti%20-%20The%20LAXMI%20GROUP!5e0!3m2!1sen!2sin!4v1686121923319!5m2!1sen!2sin" width="500" height="390"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.883774660024!2d72.84530567510248!3d19.156564182064713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b71c001e5acf%3A0x9d520fbd4021302c!2sLaxmi%20Sanskruti%20-%20The%20LAXMI%20GROUP!5e0!3m2!1sen!2sin!4v1686121923319!5m2!1sen!2sin" width="500" height="390"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title='vina'></iframe>
           </div>
         </div>
 

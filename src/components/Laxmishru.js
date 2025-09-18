@@ -98,7 +98,7 @@ const Laxmishru = () => {
         <h1 className='loch1'>How Get Here</h1>
 
         <div className="map1" id="map-bar1">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.664115146726!2d72.8373625748761!3d19.166174582057042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b714fe4a64ad%3A0x17d3370a96d870f1!2sLaxmi%20Shrushti%20-%20THE%20LAXMI%20GROUP!5e0!3m2!1sen!2sin!4v1686031577046!5m2!1sen!2sin" width="500" height="390" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3768.664115146726!2d72.8373625748761!3d19.166174582057042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b714fe4a64ad%3A0x17d3370a96d870f1!2sLaxmi%20Shrushti%20-%20THE%20LAXMI%20GROUP!5e0!3m2!1sen!2sin!4v1686031577046!5m2!1sen!2sin" width="500" height="390" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title='vinayak'></iframe>
         </div></div>
 
 
